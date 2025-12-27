@@ -4,12 +4,15 @@
 
 ---
 
-推荐[http://www.mzdbl.cn](http://www.mzdbl.cn)或[http://www.mzdbl.com.cn](http://www.mzdbl.com.cn)，里面有很多电子书资源。
+推荐[http://www.mzdbl.cn](http://www.mzdbl.cn)或[http://www.mzdbl.com.cn](http://www.mzdbl.com.cn)还有[Z-Library](https://zlibrary.st/new-z-library-official-website-links)，里面有很多电子书资源。
+
+不想完整克隆本项目，可使用如[https://downgit.github.io](https://downgit.github.io)或[https://fastgit.cc](https://fastgit.cc)这类下载工具。
 
 ---
 
 ## 已收集的作品
 
+- 两论
 - 建国以来毛泽东文稿
 - 毛主席语录
 - 毛泽东传
